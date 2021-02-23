@@ -1,7 +1,4 @@
 
-@author: pyada
-"""
-
 import subprocess
 import os
 import json
